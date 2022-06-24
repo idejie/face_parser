@@ -1,0 +1,9 @@
+torch >= 1.9.1
+torchvision
+pillow
+numpy
+ipywidgets
+scikit-image
+matplotlib
+validators
+requests
